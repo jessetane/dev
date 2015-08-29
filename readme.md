@@ -13,5 +13,10 @@ $ cd myapp
 $ dev
 ```
 
+## Install
+```bash
+$ npm install jessetane/dev#1.0.1
+```
+
 ## License
 WTFPL
