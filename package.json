@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "app-server": "jessetane/app-server#1.0.0",
-    "build-css": "jessetane/build-css#1.0.4",
+    "build-css": "jessetane/build-css#1.0.5",
     "build-js": "jessetane/build-js#1.0.0",
     "chalk": "^1.1.1"
   },
