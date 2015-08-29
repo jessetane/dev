@@ -1,0 +1,20 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Personal flavor of dev / watch script",
+  "bin": {
+    "dev": "index.js"
+  },
+  "dependencies": {
+    "app-server": "jessetane/app-server#1.0.0",
+    "build-css": "jessetane/build-css#1.0.4",
+    "build-js": "jessetane/build-js#1.0.0",
+    "chalk": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^5.1.1"
+  },
+  "repository": "https://github.com/jessetane/dev",
+  "author": "jesse.tane@gmail.com",
+  "license": "WTFPL"
+}
