@@ -17,13 +17,13 @@ js.watch(function (err) {
   else onlog('js rebuilt')
 })
 
-var server = new Server()
-server.open(function (err) {
+var server = Server(function (err) {
   if (err) throw err
   onlog('app server listening on ' + server.port)
 })
-server.onrequest = function (req) {
+server.middleware = function (req, res, next) {
   onlog('app server got request: ' + req.method + ' ' + req.url)
+  next()
 }
 
 function onlog (msg) {
