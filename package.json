@@ -1,6 +1,6 @@
 {
   "name": "dev",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Personal flavor of dev / watch script",
   "bin": {
     "dev": "index.js"
