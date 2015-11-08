@@ -6,9 +6,9 @@
     "dev": "index.js"
   },
   "dependencies": {
-    "app-server": "jessetane/app-server#2.0.0",
-    "build-css": "jessetane/build-css#1.0.5",
-    "build-js": "jessetane/build-js#1.0.0",
+    "app-server": "jessetane/app-server",
+    "build-css": "jessetane/build-css",
+    "build-js": "jessetane/build-js",
     "chalk": "^1.1.1"
   },
   "devDependencies": {
