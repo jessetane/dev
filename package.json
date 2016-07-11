@@ -6,9 +6,9 @@
     "dev": "index.js"
   },
   "dependencies": {
-    "app-server": "jessetane/app-server#3.0.2",
-    "build-css": "jessetane/build-css#2.0.1",
-    "build-js": "jessetane/build-js#2.2.0",
+    "app-server": "jessetane/app-server#4.0.0",
+    "build-css": "jessetane/build-css#3.0.0",
+    "build-js": "jessetane/build-js#3.0.0",
     "chalk": "^1.1.1"
   },
   "devDependencies": {
@@ -16,5 +16,5 @@
   },
   "repository": "https://github.com/jessetane/dev",
   "author": "jesse.tane@gmail.com",
-  "license": "WTFPL"
+  "license": "MIT"
 }
